@@ -1,8 +1,9 @@
 # NLP_Exam1
 Showcase your NLP skills.  Please do not share this exam with anyone.
 
-Assignment #1 - Goal - Identify Top Keywords
-See the dataset in the csv file.
+Assignment #1 - Goal - Identify Top Keywords.
+
+See the dataset in the csv file
 
 Questions to answer:
 
